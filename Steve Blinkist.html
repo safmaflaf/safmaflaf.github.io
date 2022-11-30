@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta content="charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blinkist</title>
+<style>	
+@media screen and (max-width: 600px){
+	
+	.wrapper { width: 100% !important; 
+			   text-align: center; !important;
+		
+	body {
+		color: #002f54; 
+	}
+	
+	}
+</style>
+<body>
+
+<!--MAIN CONTAINER TABLE--> 
+    <table cellpadding="0" cellspacing="0" width="100%" border="0" bgcolor="#f5f7fa">
+        <tr>
+            <td align="center">
+
+                <!--WRAPPER TABLE-->
+                    <table cellpadding="0" cellspacing="0" width="600" border="0" class="wrapper">
+                        <tr>
+                            <td align="center">
+				<!--BLINKIST IMAGE TABLE-->
+							<table cellpadding="0" cellspacing="0" width="600" border="0" bgcolor="#ffffff">
+                        		<tr>
+                            		<td align="center" valign="middle" height="140" style="font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif' 16px; min-height: 50px; height: 50px; border-style: solid; border-color: #03314b; border-width: 1px; padding: 40px;">
+
+									<img src="https://mcusercontent.com/d8c99f7243d8eb998efeebe2a/images/48cc981d-4c9e-4360-acd2-0b6ca56fdb6f.jpg" width="300" height="auto" style="width: 65%; height: auto;" alt="Blinkist Logo">
+
+                           	 	   </td>						
+                        	   </tr>       
+                    		</table>
+				<!--END BLINKIST IMAGE TABLE-->	
+				
+				<!--WELCOME BANNER-->
+							<table cellpadding="0" cellspacing="0" width="600" border="0" height="40px">	
+								<tr>
+									<td align="center" bgcolor="#2ce080" style="color: #ffffff">				
+										
+										WELCOME	
+										
+									</td>
+								</tr>
+							</table>
+								
+				<!--END OF WELCOME BANNER-->
+								
+				<!--BODY-->				
+					<table cellpadding="0" cellspacing="0" width="600" border="0" bgcolor="#ffffff">			
+                        <tr>
+                          <td align="left" valign="middle" height="140" style="font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif' 16px; min-height: 50px; height: 50px;  border-color: #002f54; border-style: solid; border-width: 1px; padding: 40px;">  		
+									
+			
+			Hey there,<br><br>
+			
+
+          
+            At Blinkist, our mission is to help you keep learning new, exciting things.
+            But we understand that these days it can be challenging to find time for this.<br><br>
+        
+
+         
+          That’s why we’ve created a Blinkist service available to customers only:
+          The Blinkist Minute – short insights and tips from the world’s best nonfiction books.
+          One minute a day is all it takes to be a lifelong learner, and a dive into the blinks is just a click away.<br><br>
+          
+
+        
+            Let’s start with a simple yet powerful productivity technique that will help put you in high gear today.<br><br>
+          
+
+          
+            <strong>Instant productivity: The Pomodoro Technique</strong><br><br>
+          
+
+          
+            Do you struggle with procrastination? Have trouble maintaining focus? Check your emails every five minutes?
+            The Pomodoro Technique might just be right for you!<br><br>
+         
+
+          
+            This simple productivity method works by dicing up your workday into 25-minute
+            chunks of totally focused work called pomodoros, separated by five-minute breaks.<br><br>
+          
+
+          
+            If you’re curious about the name, “pomodoro” is Italian for “tomato” and the Italian founder
+             of the technique used the popular tomato-shaped kitchen timer to time his work!<br><br>
+          
+
+         
+            The idea is that, while you may struggle to focus for long periods, a measly 25 minutes
+            is almost always doable, and the mandatory five-minute breaks ensure you’re refreshed enough to
+            tackle the next pomodoro. The end result is that you get much more done during your workday.<br><br>
+
+         
+            So what are you waiting for? Pick a task, set a <a href="http://www.example.com" style="text-decoration:none; color:#2ce080;"><strong>timer</strong></a> for
+            25 minutes and give it a go!<br><br>
+
+  
+            How do you deal with interruptions at work? That’s another question answered
+            by <strong><em>The Pomodoro Technique</em> by Francesco Cirillo.</strong><br><br><br><br>
+							  
+			
+							  <table align="center" cellpadding="0" cellspacing="0" border="0" width="376" height="65" style="width: 230px; height:65px;" bgcolor="#ffffff">
+					 <tr>
+					   <td width="376" height="65" align="center" bgcolor="#2ce080" style="height:65px; border-radius: 4px;">
+
+					   <a class="css-button-rounded-edges" href="http://www.example.com"
+					   style="display:block; height:55px; line-height:25px;
+					   text-decoration:none; color:#ffffff">Start reading <strong>The Pomodoro<br> Technique</strong></a>
+						   
+						</td>
+					</tr>
+				</table>
+
+   	
+               </td>						
+              </tr>       
+           </table>
+			<!--END OF BODY-->	
+								
+		<!--Start Button-->				
+		
+		<!--End Button-->
+								
+								
+
+	<table cellpadding="0" cellspacing="0" width="600" border="0" bgcolor="#ffffff" bordercolor="#002f54">
+                        		
+    <tr>
+      <td align="center" style="color: #002f54; font-size: 10px; padding: 20px 0 20px 0; border-color: #002f54; border-style: solid; border-top: none; border-width: 1px;">
+        <img src="https://mcusercontent.com/d8c99f7243d8eb998efeebe2a/images/786e02e8-59f2-419f-b83c-5b2ca1317cf9.jpg" alt="blank"/><br /><br />
+
+	<footer style="line-height: 16px;">Copyright © 2019 Blinks Labs GmbH,<br />
+  Sonnenallee 223, 12059 Berlin, Germany | <span style="color:#2ce080">hello@blinkist.com</span><br />
+  Not interested in email updates?<span style="color:#2ce080"> Unsubscribe from this list</span>.
+    </footer>
+		  
+		  
+          </td>
+        </tr>
+    </table>
+
+								
+		    </td>
+          </tr>        
+       </table>
+<!--END OF WRAPPER TABLE--> 		
+				
+ 		</td>
+    </tr>        
+ </table>
+<!--END OF MAIN CONTAINER TABLE--> 				
+								
+								
+	</body>
+
+</html>
+
+<!--END SPACE CODE-->	
+<!--SPACE CODE-->	
+
+
